@@ -1,17 +1,17 @@
 # Speech_Emotion_Recognition
 
-###### University Stuttgart
-###### Introduction to Deep Learning for Language and Speech Processing Project, Winter 2022/23
+<font size=4>University Stuttgart</font>\
+<font size=4>Introduction to Deep Learning for Language and Speech Processing Project, Winter 2022/23</font>
 
 ## Project Information
 
 ### Description
 
-Predict the emotion class given the features of a speech input. There are 4 classes, where we use a two-dimensional representation: 
-
-|           |VALENCE = 0|VALENCE = 1|
-|AROUSAL = 1|   anger   |    Joy    |
-|AROUSAL = 0|  sadness  |  Pleasure |
+Predict the emotion class given the features of a speech input. There are 4 classes, where we use a two-dimensional representation:
+|             | VALENCE = 0 | VALENCE = 1 |
+|:-----------:|:-----------:|:-----------:|
+| **AROUSAL = 1** |    Anger    |     Joy     |
+| **AROUSAL = 0** |   Sadness   |   Pleasure  |
 
 ### Requirements
 
@@ -26,9 +26,9 @@ The code should run the enviroment as follow list:
 
 ### Results
 
-Model Accuracy: 50.38%
-Accuracy of Development Dataset: 49.94% 
-(The highest score in class: 53.29%)
+Accuracy of Development Dataset: 49.94%\
+Accuracy of Testing Dataset: 47.74%\
+(The score ranked sixth out of 38 students in the class.)
 
 ## Dataset
 
