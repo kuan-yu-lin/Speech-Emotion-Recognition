@@ -9,9 +9,9 @@
 
 Predict the emotion class given the features of a speech input. There are 4 classes, where we use a two-dimensional representation: 
 
-|           |VALENCE = 0|VALENCE = 1|
-|AROUSAL = 1|   anger   |    Joy    |
-|AROUSAL = 0|  sadness  |  Pleasure |
+             |VALENCE = 0|VALENCE = 1
+  AROUSAL = 1|   anger   |    Joy    
+  AROUSAL = 0|  sadness  |  Pleasure 
 
 ### Requirements
 
