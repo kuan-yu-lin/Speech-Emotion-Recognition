@@ -5,6 +5,9 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
+import os
+from urllib.request import urlopen
+from pathlib import Path
 
 project = 'Speech Emotion Recognition'
 copyright = '2023, Kuan-Yu (Claire) Lin'
