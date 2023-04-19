@@ -14,7 +14,7 @@ release = '15-03-2023'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
+extensions = ['sphinx_book_theme']
 
 templates_path = ['_templates']
 exclude_patterns = []
