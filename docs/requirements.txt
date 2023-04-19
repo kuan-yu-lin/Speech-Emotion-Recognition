@@ -1,3 +1,2 @@
 sphinx
 sphinxcontrib-mermaid
-sphinx-book-theme>=1.0.1  # Older versions fail to pin pydata-sphinx-theme
