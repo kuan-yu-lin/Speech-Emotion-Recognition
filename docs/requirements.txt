@@ -1,3 +1,3 @@
 sphinx
 sphinxcontrib-mermaid
-sphinx-nameko-theme
+sphinx-book-theme

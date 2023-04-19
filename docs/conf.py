@@ -24,7 +24,7 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-import sphinx_nameko_theme
+import sphinx_book_theme
 html_theme = 'nameko'
-html_theme_path = [sphinx_nameko_theme.get_html_theme_path()]
+html_theme_path = [sphinx_book_theme.get_html_theme_path()]
 html_static_path = ['_static']
